@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535161455 source:/home/marcos/Documentos/Algoritmos y estructuras de datos/Resolucion ejercicios 1/ejercicio15/main.c
+	<stdio.h>
+	<stdlib.h>
+
